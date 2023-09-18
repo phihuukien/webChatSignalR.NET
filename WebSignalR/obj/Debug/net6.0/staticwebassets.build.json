@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "uXVBE2f35yYnqRkGn9LW4HZoHUnLqru73vp9Wjsa0k4=",
+  "Source": "WebSignalR",
+  "BasePath": "_content/WebSignalR",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
